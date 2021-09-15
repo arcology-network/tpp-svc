@@ -1,2 +1,1 @@
-# tpp-svc
-Transaction Preprocessor
+# ppt-svc

@@ -3,10 +3,10 @@ package workers
 import (
 	"fmt"
 
-	"github.com/arcology/common-lib/common"
-	"github.com/arcology/component-lib/actor"
-	"github.com/arcology/component-lib/log"
-	pptTypes "github.com/arcology/ppt-svc/service/types"
+	"github.com/arcology-network/common-lib/common"
+	"github.com/arcology-network/component-lib/actor"
+	"github.com/arcology-network/component-lib/log"
+	pptTypes "github.com/arcology-network/ppt-svc/service/types"
 	"go.uber.org/zap"
 )
 

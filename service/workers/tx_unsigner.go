@@ -5,11 +5,11 @@ import (
 	"math/big"
 	"sync"
 
-	ethParams "github.com/arcology/3rd-party/eth/params"
-	"github.com/arcology/common-lib/types"
-	"github.com/arcology/component-lib/actor"
-	"github.com/arcology/component-lib/log"
-	ppttypes "github.com/arcology/ppt-svc/service/types"
+	ethParams "github.com/arcology-network/3rd-party/eth/params"
+	"github.com/arcology-network/common-lib/types"
+	"github.com/arcology-network/component-lib/actor"
+	"github.com/arcology-network/component-lib/log"
+	ppttypes "github.com/arcology-network/ppt-svc/service/types"
 	"go.uber.org/zap"
 )
 

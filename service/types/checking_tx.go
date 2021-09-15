@@ -4,10 +4,10 @@ import (
 	"errors"
 	"math/big"
 
-	ethCommon "github.com/arcology/3rd-party/eth/common"
-	ethRlp "github.com/arcology/3rd-party/eth/rlp"
-	ethTypes "github.com/arcology/3rd-party/eth/types"
-	"github.com/arcology/common-lib/types"
+	ethCommon "github.com/arcology-network/3rd-party/eth/common"
+	ethRlp "github.com/arcology-network/3rd-party/eth/rlp"
+	ethTypes "github.com/arcology-network/3rd-party/eth/types"
+	"github.com/arcology-network/common-lib/types"
 )
 
 type CheckingTx struct {
